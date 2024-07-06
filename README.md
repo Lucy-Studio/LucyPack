@@ -1,4 +1,4 @@
-# Lucy_RePack
+# LucyPack
 
 이 리소스팩은 Lucy Network 서버에서만 사용할 수 있습니다.
 
