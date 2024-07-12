@@ -11,5 +11,5 @@
   
 ![releases](https://github.com/user-attachments/assets/6cec7800-4075-46c7-8ed4-9b3843eab6f9)
 
-### Costume Fix 다운로드하기
+### Costume Fix 다운로드하기 (1.20.1 미만 유저)
 [Costume Fix 위키 페이지 (클릭)](https://wiki.lucymc.kr/lucy-info/start#id-1.20.1) 으로 이동 후 위키에 적혀있는 내용을 따라주세요.
