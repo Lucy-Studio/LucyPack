@@ -8,4 +8,5 @@
 
 ### 리소스팩 다운로드 방법
 [리소스팩 다운로드 페이지 (클릭)](https://github.com/Lucy-Studio/Lucy_RePack/releases) 으로 이동 후 아래 사진에 나온 순서를 따라주세요.  
+  
 ![releases](https://github.com/user-attachments/assets/6cec7800-4075-46c7-8ed4-9b3843eab6f9)
