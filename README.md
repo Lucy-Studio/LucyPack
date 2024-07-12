@@ -17,7 +17,7 @@
 > 압축해제 안하고 그대로 넣으시면 됩니다.  
 > 🌱 Copyright 2024. LucyStudio all rights reserved.
 
-
+### Copyright
 **Korean**
 
 * 리소스팩의 모든 리소스들은 자체 제작 또는 정당한 방식으로 구매 또는 배포된 리소스를 활용하였습니다.
@@ -37,7 +37,7 @@ This material may not be reproduced, distributed, or transmitted in any form or 
 * Owner - happy704
 * Artist - Cabbachyu
 * Artist - ArIIrK
-* Plugin - Itemsadder
+* Plugin - ItemsAdder
 * Store - Seller on KIXEL STUDIO
 * Store - Seller on Minecraft_Store(Pumkin)
 * Store - Seller on NNSHOP
@@ -45,7 +45,7 @@ This material may not be reproduced, distributed, or transmitted in any form or 
 * Store - Seller on Builtbybit.com
 * Store - etc
 
----------------------------------------------------------------------------------------------------------------------------
+---
 
 **English**
 
