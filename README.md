@@ -1,5 +1,7 @@
 ## LucyPack
-
+  
+> 현재 팩 최신버전: LUCY-7.0  
+  
 ### 리소스팩 다운로드하기
 [리소스팩 다운로드 페이지 (클릭)](https://github.com/Lucy-Studio/Lucy_RePack/releases) 으로 이동 후 아래 사진에 나온 순서를 따라주세요.  
   
