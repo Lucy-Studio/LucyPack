@@ -42,6 +42,7 @@ This material may not be reproduced, distributed, or transmitted in any form or 
 * Artist - Cabbachyu
 * Artist - ArIIrK
 * Plugin - ItemsAdder
+* Store - Seller on LUCY STUDIO
 * Store - Seller on KIXEL STUDIO
 * Store - Seller on Minecraft_Store(Pumkin)
 * Store - Seller on NNSHOP
@@ -71,6 +72,7 @@ This material may not be reproduced, distributed, or transmitted in any form or 
 * Artist - Cabbachyu
 * Artist - ArIIrK
 * Plugin - Itemsadder
+* Store - Seller on LUCY STUDIO
 * Store - Seller on KIXEL STUDIO
 * Store - Seller on Minecraft_Store(Pumkin)
 * Store - Seller on NNSHOP
